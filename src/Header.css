@@ -1,0 +1,21 @@
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 7rem 5rem;
+}
+header div#leftSide h1{
+    text-align: center;
+    padding: 0.6rem 0;
+
+}
+header div#leftSide p{
+    text-align: center;
+}
+header div#rightSide{
+    box-shadow: 0 4px 12px rgba(0,128,255,0.3);
+}
+header div#rightSide img{
+    border-radius: 10px;
+}

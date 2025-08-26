@@ -1,0 +1,20 @@
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem 6rem;
+    background-color: rgba(79, 185, 255, 0.6);
+}
+main h2{
+    padding-bottom: 3rem;
+}
+main div#cardContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* main div#cardContainer Cards{
+    padding: 15rem;
+} */

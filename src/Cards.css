@@ -1,0 +1,16 @@
+
+div#outer{
+    padding: 2rem;
+}
+div#outer div#inner{
+    background-color: white;
+    padding: 1rem;
+    border-radius: 10px;
+}
+/* div#outer div#inner img{
+
+} */
+div#outer h4{
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
